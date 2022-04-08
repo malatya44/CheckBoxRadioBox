@@ -31,7 +31,6 @@ namespace CheckBoxOdev2
         {
             listBox1.Items.Clear();
             //şehirler
-            // deneme Ertuğrul2
             foreach (Control rb in groupBox2.Controls)
             {
                 if (((RadioButton)rb).Checked)
@@ -60,7 +59,7 @@ namespace CheckBoxOdev2
             //Diller
             foreach (Control cb in groupBox1.Controls)
             {
-                
+
                 if (((CheckBox)cb).Checked)
                 {
                     listBox1.Items.Add(cb.Text);
