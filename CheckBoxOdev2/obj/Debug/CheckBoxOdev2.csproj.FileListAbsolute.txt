@@ -1,0 +1,10 @@
+C:\Users\Kartal\source\repos\CheckBoxOdev2\CheckBoxOdev2\bin\Debug\CheckBoxOdev2.exe.config
+C:\Users\Kartal\source\repos\CheckBoxOdev2\CheckBoxOdev2\bin\Debug\CheckBoxOdev2.exe
+C:\Users\Kartal\source\repos\CheckBoxOdev2\CheckBoxOdev2\bin\Debug\CheckBoxOdev2.pdb
+C:\Users\Kartal\source\repos\CheckBoxOdev2\CheckBoxOdev2\obj\Debug\CheckBoxOdev2.csproj.AssemblyReference.cache
+C:\Users\Kartal\source\repos\CheckBoxOdev2\CheckBoxOdev2\obj\Debug\CheckBoxOdev2.Form1.resources
+C:\Users\Kartal\source\repos\CheckBoxOdev2\CheckBoxOdev2\obj\Debug\CheckBoxOdev2.Properties.Resources.resources
+C:\Users\Kartal\source\repos\CheckBoxOdev2\CheckBoxOdev2\obj\Debug\CheckBoxOdev2.csproj.GenerateResource.cache
+C:\Users\Kartal\source\repos\CheckBoxOdev2\CheckBoxOdev2\obj\Debug\CheckBoxOdev2.csproj.CoreCompileInputs.cache
+C:\Users\Kartal\source\repos\CheckBoxOdev2\CheckBoxOdev2\obj\Debug\CheckBoxOdev2.exe
+C:\Users\Kartal\source\repos\CheckBoxOdev2\CheckBoxOdev2\obj\Debug\CheckBoxOdev2.pdb
